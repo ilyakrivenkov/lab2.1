@@ -1,0 +1,17 @@
+﻿Построение начато 29.09.2022 14:34:49.
+     1>Проект "C:\Users\79374\Desktop\lab2\llab2.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\llab2.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         llab2.vcxproj -> C:\Users\79374\Desktop\lab2\Debug\llab2.exe
+       FinalizeBuildStatus:
+         Файл "Debug\llab2.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\llab2.lastbuildstate".
+     1>Построение проекта "C:\Users\79374\Desktop\lab2\llab2.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.03
